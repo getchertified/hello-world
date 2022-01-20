@@ -18,4 +18,4 @@ An in-depth paragraph about your project and overview use.
 
 ## License
 
-This project is licensed under Cherie C del Rosario License - see the License.md file for details.
+This **project** is licensed under Cherie C del Rosario License - see the License.md file for details.
